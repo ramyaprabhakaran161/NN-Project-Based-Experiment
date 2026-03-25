@@ -136,6 +136,7 @@ plt.show()
 
 <img width="568" height="405" alt="image" src="https://github.com/user-attachments/assets/bb33a72e-693f-4e6a-9d51-ddbd3ad89d61" />
 <img width="603" height="257" alt="image" src="https://github.com/user-attachments/assets/dc4b45ea-ce62-44ad-9f74-d3bfd9a5f9ad" />
+<img width="1341" height="627" alt="image" src="https://github.com/user-attachments/assets/81725944-a46c-400a-bec2-8d0f9f8ff549" />
 
 <img width="1310" height="646" alt="image" src="https://github.com/user-attachments/assets/8e8621bf-4749-4c4b-8739-f0c66de19ed2" />
 
